@@ -1,0 +1,6 @@
+{
+  "name": "Delta Script Saver",
+  "description": "Simpan, edit, dan bagikan script Roblox Lua untuk semua executor (Delta, Codex, Fluxus, dll) langsung dari ponsel Anda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
